@@ -53,20 +53,13 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"height="40" />
   <!-- Add or remove icons as needed -->
 </p>
 
 ---
 
 
-### ☕ Support My Work
-<a href="https://buymeacoffee.com/prathmeshpawar21">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
-
----
 
 ### 📊 GitHub Stats
 
@@ -74,10 +67,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshpawar21&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshpawar21&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshpawar21&theme=tokyonight" alt="GitHub Streak" />
-</p>
