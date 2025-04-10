@@ -53,7 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/R-.svg" alt="heroku" width="40" height="40"/>
 </p>
 ---
 
@@ -86,35 +86,44 @@
 <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Webflow.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-  
+<img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/PHP.svg" alt="postgresql" width="40" height="40"/>
 </p>
 ---
-### DataBases
 
+
+### DataBases
+<p>
 <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/CouchDB.svg" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
+</p>
 
 
 ### 🚀 Deployment 
 <p>
 <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="postgresql" width="40" height="40"/>
+</p>
+---
+
+
+### 🔍 LLM's
+<p>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/ollama.png" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
+<img src="" alt="postgresql" width="40" height="40"/>
+
   
 </p>
 ---
 
-### 🔍 Monitoring
-</p>
----
+
 ### Others
 <p>
 <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" alt="postgresql" width="40" height="40"/>
@@ -125,18 +134,28 @@
 <img src="https://icon.icepanel.io/Technology/svg/CodeIgniter.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Kaggle.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/MATLAB.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/PostCSS.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Unreal-Engine.png" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="postgresql" width="40" height="40"/>
 
   
 
@@ -144,9 +163,13 @@
 
 ### OS
 <p> 
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/330767/kalilinux.svg" alt="postgresql" width="40" height="40"/>
 <img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
-<img src="" alt="postgresql" width="40" height="40"/>
+
+
 
 
 </p>
