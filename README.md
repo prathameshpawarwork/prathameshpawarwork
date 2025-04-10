@@ -34,7 +34,7 @@
 
 ---
 
-##⚙️ Languages | Tools | Framework 
+## ⚙️ Languages | Tools | Framework 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -55,7 +55,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/R-.svg" alt="heroku" width="40" height="40"/>
 </p>
 
-###🎨 Frontend
+### 🎨 Frontend
 <p>
 <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/AngularJS.svg" alt="postgresql" width="40" height="40"/>
@@ -69,7 +69,7 @@
 </p>
 
 
-###⚒️ Backend
+### ⚒️ Backend
 <p>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="postgresql" width="40" height="40"/>
@@ -90,7 +90,7 @@
 
 
 
-###🛢️ DataBases
+### 🛢️ DataBases
 <p>
 <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="postgresql" width="40" height="40"/>
@@ -100,7 +100,7 @@
 </p>
 
 
-###🚀 Deployment 
+### 🚀 Deployment 
 <p>
 <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" alt="postgresql" width="40" height="40"/>
@@ -110,7 +110,7 @@
 
 
 
-####🤖 LLM's
+#### 🤖 LLM's
 <p>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/ollama.png" alt="postgresql" width="40" height="40"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/gemini-color.png" alt="postgresql" width="40" height="40"/>
@@ -126,7 +126,7 @@
 
 
 
-###⚡ Others
+### ⚡ Others
 <p>
 <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="postgresql" width="40" height="40"/>
@@ -158,7 +158,7 @@
 
 
 
-###🐧 OS
+### 🐧 OS
 <p> 
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="postgresql" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="postgresql" width="40" height="40"/>
@@ -166,7 +166,7 @@
 <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshpawar21&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
